@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/87107819/193193417-42578e09-29f2-490e-bc04-b72aa9b5469d.gif)
 <img src = "banner.gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
